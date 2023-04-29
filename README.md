@@ -27,3 +27,5 @@
 
 ## Flow Chart
 เกมจะมีหลักการทำงานเป็นตาม Flow Chart ด้านล่าง
+
+## How to Play
