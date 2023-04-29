@@ -24,6 +24,7 @@
 ## Hardware configuration
 การต่อวงจรสามารถทำได้ตาม schematic diagram ด้านล่าง
 
+![B0EAE56F-4B00-485C-AD58-94C9EA277C82](https://user-images.githubusercontent.com/68359540/235310753-38cb880b-b8d1-467f-acf5-3990ae648fbb.jpg)
 
 ## Flow Chart
 เกมจะมีหลักการทำงานเป็นตาม Flow Chart ด้านล่าง
