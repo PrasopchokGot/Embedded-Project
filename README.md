@@ -29,7 +29,7 @@
 ## Flow Chart
 เกมจะมีหลักการทำงานเป็นตาม Flow Chart ด้านล่าง
 
-![Picture1](https://user-images.githubusercontent.com/68359540/235310630-a87de939-d505-42c3-b959-9d8e3abb6eab.png)
+![Untitled Diagram drawio (2)](https://user-images.githubusercontent.com/68359540/235311576-93941b4a-c993-4ee6-ad0e-125b3c3ea98d.jpg)
 
 ## How to Play
 1. ใช้ IR Module เพื่อเลือกเกมที่จะเล่นโดยหมายเลข 1 คือ เกมพัฒนาความคิดและพัฒนากล้ามเนื้อ และหมายเลขที่ 2 คือ เกมฝึกความจำ และปุ่ม CH- คือ ปุ่มออกจากเกม
